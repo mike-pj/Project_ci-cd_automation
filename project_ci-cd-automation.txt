@@ -1,8 +1,16 @@
 AWS CREDENTIALS FOR Project_ci-cd-automation
 
+udaproject3 Credentials(deactivated):
+
 Access key: AKIAXPO5E7PPWR3VOGPD
 
 Secret access key: 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
+
+UdaAmin Credentials(activated):
+
+Access key: AKIAXPO5E7PPSP5HNVEL
+
+Secret access key: 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
 
 
 Master username: postgres
